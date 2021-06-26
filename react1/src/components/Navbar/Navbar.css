@@ -1,0 +1,29 @@
+.NavbarItems{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    justify-content: center;
+    align-items: left;
+}
+
+.nav-menu{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-gap: 0.9vw;
+    list-style: None;
+    position: absolute;
+    top: 30px;
+    width: 209px;
+    height: 14px;
+    font-size: 12px;
+    z-index: 10;
+    right: 10vw;
+}
+
+.nav-links{
+    color: white;
+    text-decoration: None;
+    font-size: 12px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+

@@ -1,0 +1,43 @@
+.plastore{
+    position: absolute;
+    top: 620px;
+    left: 232px;
+    width: 207px;
+    height: 80px;
+    opacity: 1;
+}
+.appstore{
+    position: absolute;
+    top: 633px;
+    left: 60px;
+    width: 160px;
+    height: 53px;
+    opacity: 1;
+}
+.fb{
+    position: absolute;
+    bottom:30px;
+    right:104px;
+    width: 10px;
+    height: 11px;
+    opacity: 1;
+    z-index: 12;
+}
+.ln{
+    position: absolute;
+    bottom:30px;
+    right:82px;
+    width: 10px;
+    height: 11px;
+    opacity: 1;
+    z-index: 12;
+}
+.twt{
+    position: absolute;
+    bottom:30px;
+    right:60px;
+    width: 11px;
+    height: 11px;
+    opacity: 1;
+    z-index: 12;
+}

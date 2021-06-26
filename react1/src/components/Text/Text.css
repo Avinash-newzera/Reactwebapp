@@ -1,0 +1,52 @@
+
+.Head1{
+    position: absolute;
+    font: 42px;
+    top: 359px;
+    left: 60px;
+    width: 450px;
+    height: 162px;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #3E3E3E;
+    opacity: 1;
+}
+.Body{
+    position: absolute;
+    font: 16px;
+    top: 500px;
+    left: 60px;
+    width: 440px;
+    height: 108px;
+    letter-spacing: var(--unnamed-character-spacing--0-11);
+    text-align: left;
+    letter-spacing: -0.11px;
+    color: #6D6D6D;
+    opacity: 1;
+}
+.Type{
+position: absolute;
+font-size: 18px;
+top: 70vh;
+left: 55vw;
+width: 100px;
+height: 20px;
+text-align: left;
+letter-spacing: -0.12px;
+color: #FFFFFF;
+opacity: 1;
+}
+.Type2{
+position: absolute;
+z-index: 15;
+top: 75vh;
+left: 55vw;
+width: 220px;
+height: 81px;
+letter-spacing: var(--unnamed-character-spacing--0-11);
+text-align: left;
+letter-spacing: -0.11px;
+color: #FFE8DF;
+opacity: 1;
+}

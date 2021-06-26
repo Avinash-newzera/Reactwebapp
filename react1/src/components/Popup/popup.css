@@ -1,0 +1,199 @@
+/* Popup style */
+.popup-box {
+  position: fixed;
+  top: 203px;
+  left: 473px;
+  width: 495px;
+  height: 405px;
+  background: #FCEBE5 0% 0% no-repeat padding-box;
+  border-radius: 16px;
+  opacity: 1;
+  z-index: 20;
+}
+
+.btn{
+  position: absolute;
+  top: 42px;
+  cursor: pointer;
+  right: 5.8vw;
+  font-size: 12px;
+  list-style: None;
+  width: 45px;
+  height: 14px;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F7F7F7;
+  opacity: 1;
+  z-index: 10;
+}
+
+
+
+.heading{
+    position: fixed;
+  top: 224px;
+  left: 511px;
+  width: 419px;
+  height: 45px;
+  font:var(--unnamed-font-style-normal) normal bold 42px/47px Banana Grotesk;
+  text-align: left;
+  font: normal normal bold 42px/47px Banana Grotesk;
+  letter-spacing: 2.1px;
+  color: #495057;
+  opacity: 1;
+}
+
+.subhead{
+  position: fixed;
+  top: 274px;
+  left: 511px;
+  width: 284px;
+  height: 14px;
+  font: var(--unnamed-font-style-normal) normal 300 12px/38px Banana Grotesk;
+  text-align: left;
+  font: normal normal 300 12px/38px Banana Grotesk;
+  letter-spacing: 0.48px;
+  color: #ADB5BD;
+  opacity: 1;
+}
+
+.close-icon {
+  content: 'x';
+  cursor: pointer;
+  position: fixed;
+  left: 931px;
+  top: 222px;
+  background:none;
+  width: 17px;
+  height: 17px;
+  border: none;
+  z-index: 20;
+}
+
+
+.nt1{
+position: fixed;
+top: 345px;
+left: 539px;
+text-align: left;
+letter-spacing: 0.48px;
+color: #000000;
+font-size: 12px;
+font-weight: bold;
+opacity: 1;
+z-index: 30;
+}
+.nt2{
+position: fixed;
+top: 399px;
+left: 539px;
+text-align: left;
+letter-spacing: 0.48px;
+color: #000000;
+font-weight: bold;
+font-size: 12px;
+opacity: 1;
+z-index: 30;
+}
+.nt3{
+position: fixed;
+top: 455px;
+left: 539px;
+text-align: left;
+letter-spacing: 0.48px;
+color: #000000;
+font-size: 12px;
+font-weight: bold;
+opacity: 1;
+z-index: 30;
+}
+
+.Name{
+  position: Fixed;
+  padding-left: 100px;
+  top: 339px;
+  left: 509px;
+  width: 320px;
+  height: 45px;
+  background: #F8F9FA 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+}
+
+.Email{
+  position: Fixed;
+  padding-left: 100px;
+  top: 395px;
+  left: 509px;
+  width: 320px;
+  height: 45px;
+  background: #F8F9FA 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+
+}
+.Message{
+  position: fixed;
+  padding-left: 100px;
+  top: 450px;
+  left: 509px;
+  width: 320px;
+  height: 45px;
+  background: #F8F9FA 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+}
+
+.BTN{
+  position: fixed;
+  top: 510px;
+  left: 824px;
+  width: 105px;
+  height: 45px;
+  background: #000000 0% 0% no-repeat padding-box;
+  color: #FFFFFF;
+  border-radius: 39px;
+  opacity: 1;
+}
+
+.fbp{
+position: fixed;
+top: 567px;
+left: 874px;
+width: 11px;
+height: 11px;
+opacity: 1;
+z-index: 30;
+}
+.twtp{
+position: fixed;
+top: 567px;
+left: 896px;
+width: 11px;
+height: 11px;
+z-index: 30;
+opacity: 1;
+}
+.lnp{
+position: fixed;
+top: 567px;
+left: 918px;
+width: 11px;
+height: 11px;
+z-index: 30;
+opacity: 1;
+}
+.mail{
+position: fixed;
+top: 543px;
+left: 509px;
+width: 218px;
+height: 14px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 12px/38px Banana Grotesk;
+text-align: left;
+font: normal normal normal 12px/38px Banana Grotesk;
+letter-spacing: 0.48px;
+color: #495057;
+opacity: 1;
+}

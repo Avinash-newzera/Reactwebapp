@@ -1,0 +1,24 @@
+.App {
+  position: relative;
+  }
+  
+  .Catdoglogo{
+  position: absolute;
+  top: 25px;
+  left: 41px;
+  width: 194px;
+  height: 62px;
+  }
+  
+  .Type{
+    z-index: 20;
+    top: 501px;
+    left: 831px;
+    width: 80px;
+    height: 20px;
+    text-align: left;
+    letter-spacing: -0.12px;
+    color: #FFFFFF;
+    opacity: 1;
+  }
+  
